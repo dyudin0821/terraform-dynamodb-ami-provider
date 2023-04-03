@@ -22,7 +22,7 @@ mv terraform-provider-amidynamodb ~/.terraform.d/plugins/yourusername/example/1.
 
 or 
 
-dowload from Terraform Registry: [registry.terraform.io/dyudin0821/terraform-provider-amidynamodb](registry.terraform.io/dyudin0821/terraform-provider-amidynamodb)
+dowload from Terraform Registry: [https://registry.terraform.io/providers/dyudin0821/amidynamodb](https://registry.terraform.io/providers/dyudin0821/amidynamodb/latest)
 
 
 ## Usage
